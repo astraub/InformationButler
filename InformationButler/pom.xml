@@ -13,4 +13,10 @@
   <version>1.10.19</version>
   </dependency>
   </dependencies>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>project-api</module>
+  	<module>project-client</module>
+  	<module>project-application</module>
+  </modules>
 </project>

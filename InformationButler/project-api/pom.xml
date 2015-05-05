@@ -7,5 +7,4 @@
   </parent>
   <groupId>informationbutler-api</groupId>
   <artifactId>project-api</artifactId>
-  <packaging>pom</packaging>
 </project>

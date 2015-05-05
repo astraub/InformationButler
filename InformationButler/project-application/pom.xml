@@ -7,4 +7,5 @@
   </parent>
   <groupId>informationbutler-application</groupId>
   <artifactId>project-application</artifactId>
+  <packaging>war</packaging>
 </project>

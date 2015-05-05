@@ -19,4 +19,7 @@
   	<module>project-client</module>
   	<module>project-application</module>
   </modules>
+  <url>https://github.com/astraub/InformationButler.git</url>
+  <name>InformationButler</name>
+  <description>Repository for ADSWEN project SoSe2015</description>
 </project>
